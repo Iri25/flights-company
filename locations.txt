@@ -1,0 +1,5 @@
+1;Cluj-Napoca
+2;Suceava
+3;Bucuresti
+4;Alba Iulia
+5;Mures
