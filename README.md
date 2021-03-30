@@ -1,2 +1,3 @@
-# X0
-# X and Zero is mini game that implements the concepts of object oriented programming in the c ++ programming language 
+# MAP
+# FlightCompany 
+# Application with an intuitive graphical interface, which allows the filtering of flights, and the purchase of tickets for flights desired.
