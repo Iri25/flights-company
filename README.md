@@ -3,7 +3,7 @@ Java application with a 4-layered architecture: data access layer with its valid
 
 Key concepts are abstraction, encapsulation, inheritance, polymorphism, validations, exceptions, alerts, reading from files and storing in files.
 
-Application for a flights company with an intuitive graphical interface. The application allows:
+Desktop application for a flights company with an intuitive graphical interface. The application allows:
 1. Login
 2. View flights
 3. Filter flights by location and date
